@@ -13,4 +13,6 @@ int main()
     }
     if(k==f) printf("It's a perfect no %d",f);
     else printf("its not a perfect number");
+    puts("lanja");
+    //puts();
 }
